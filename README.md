@@ -1,1 +1,0 @@
-# Chest-XRay-Pneumonia-Detection
